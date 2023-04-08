@@ -1,0 +1,4 @@
+,type,detail
+0,lwn1,"(784, 64, True)"
+1,nonli1,Leaky_Relu 0.5
+2,lwn2,"(64, 10, True)"
